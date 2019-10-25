@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\stl\junios\201906\network\day22_2\client\project1\main.cpp(71): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\stl\junios\201906\network\day22_2\client\project1\main.cpp(75): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  Project1.vcxproj -> C:\STL\Junios\201906\Network\Day22_2\Client\Debug\Project1.exe
